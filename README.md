@@ -115,6 +115,6 @@ Jerusalem Girma
 
 📧 Email: laviee1434@gmail.com
 
-💼 LinkedIn: Jerusalem Girma
+💼 LinkedIn:[ Jerusalem Girma](http://linkedin.com/in/jerusalem-girma-a3771b375)
 
 🐱 GitHub:[ @laviee143](https://github.com/laviee143)
