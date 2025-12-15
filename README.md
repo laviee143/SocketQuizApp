@@ -88,11 +88,15 @@ Note: Each student can attempt the quiz only once.
 
 Name Input:
 
+<img width="557" height="274" alt="image" src="https://github.com/user-attachments/assets/e387dbc8-e80a-49ff-900a-2b461d99bf00" />
 
 Quiz Question:
 
+<img width="1199" height="836" alt="image" src="https://github.com/user-attachments/assets/4e9fad3b-009b-4a57-94ea-6f286c6ee870" />
 
 High Score Result:
+
+<img width="1191" height="826" alt="image" src="https://github.com/user-attachments/assets/3800b55a-ac3c-4e3e-a918-6ec7cb09938c" />
 
 
 ### Future Improvements
@@ -113,4 +117,4 @@ Jerusalem Girma
 
 💼 LinkedIn: Jerusalem Girma
 
-🐱 GitHub: @laviee143
+🐱 GitHub:[ @laviee143](https://github.com/laviee143)
