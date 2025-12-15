@@ -54,12 +54,12 @@ SocketQuizApp/
 
 ## **Setup Instructions**
 
-### 1. Clone the repository
-```bash
+ ## 1. Clone the repository
+    ```bash
 git clone https://github.com/laviee143/SocketQuizApp.git
 cd SocketQuizApp
+ ## 2. Compile the Java files
 
-### 2. Compile the Java files
 javac QuizServer.java ClientHandler.java QuizClient.java
 
 ### 3. Run the Server
