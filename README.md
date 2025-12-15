@@ -84,7 +84,7 @@ High scorers (≥4) see animated pink confetti.
 
 Note: Each student can attempt the quiz only once.
 
-Screenshots
+### Screenshots
 
 Name Input:
 
@@ -95,17 +95,17 @@ Quiz Question:
 High Score Result:
 
 
-Future Improvements
+### Future Improvements
 
-Load questions from a database or external file
+  - Load questions from a database or external file
 
-Add more questions dynamically
+  - Add more questions dynamically
 
-Persist student attempts to a file or database
+  - Persist student attempts to a file or database
 
-Enhance GUI with icons, images, and animations
+  - Enhance GUI with icons, images, and animations
 
-Author
+### Author
 
 Jerusalem Girma
 
@@ -113,4 +113,4 @@ Jerusalem Girma
 
 💼 LinkedIn: Jerusalem Girma
 
-🐱 GitHub: laviee143
+🐱 GitHub: @laviee143
